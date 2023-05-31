@@ -14,7 +14,7 @@ export default function Home() {
           <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
             Cuidados Profissionais para o seu Pet!
           </h1>
-          <p class="mb-8 leading-relaxed">
+          <p class="text-justify mb-8 indent-6 leading-relaxed">
             Bem-vindo à nossa loja especializada em serviços de cuidados de
             pets, tosa e banho! Aqui, no conforto do seu lar, oferecemos uma
             experiência excepcional para o seu animal de estimação. Nossa equipe

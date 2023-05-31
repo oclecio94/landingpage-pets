@@ -19,7 +19,7 @@ const Work = () => {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Banho
             </h1>
-            <p class="mb-8 leading-relaxed">
+            <p class="text-justify indent-6 mb-8 leading-relaxed">
               Utilizamos produtos de alta qualidade e adequados para cada tipo
               de pelagem, garantindo um banho suave e eficaz. Nossa equipe
               especializada está treinada para lidar com diferentes
@@ -48,7 +48,7 @@ const Work = () => {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Tosa
             </h1>
-            <p class="mb-8 leading-relaxed">
+            <p class="text-justify indent-6 mb-8 leading-relaxed">
               Nosso serviço de tosa para pets oferece um cuidado profissional e
               estilizado para deixar seu amiguinho com um visual impecável.
               Nossa equipe de tosadores experientes e habilidosos utiliza
@@ -73,7 +73,7 @@ const Work = () => {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Cuidados
             </h1>
-            <p class="mb-8 leading-relaxed">
+            <p class="text-justify indent-6 mb-8 leading-relaxed">
               Nossa equipe de profissionais dedicados é apaixonada por animais e
               está comprometida em garantir que cada pet receba cuidados
               personalizados e de alta qualidade. Dos momentos de brincadeira e
