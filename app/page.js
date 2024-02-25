@@ -3,18 +3,18 @@ import pets from "../public/images/pets.jpg";
 
 export default function Home() {
   return (
-    <section class="text-gray-600 body-font">
-      <div class="container mx-auto flex px-5 py-10 items-center justify-center flex-col">
+    <section className="text-gray-600 body-font">
+      <div className="container mx-auto flex px-5 py-10 items-center justify-center flex-col">
         <Image
-          class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
+          className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
           alt="banner"
           src={pets}
         />
-        <div class="text-center lg:w-2/3 w-full">
-          <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+        <div className="text-center lg:w-2/3 w-full">
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
             Cuidados Profissionais para o seu Pet!
           </h1>
-          <p class="text-justify mb-8 indent-6 leading-relaxed">
+          <p className="text-justify mb-8 indent-6 leading-relaxed">
             Bem-vindo à nossa loja especializada em serviços de cuidados de
             pets, tosa e banho! Aqui, no conforto do seu lar, oferecemos uma
             experiência excepcional para o seu animal de estimação. Nossa equipe

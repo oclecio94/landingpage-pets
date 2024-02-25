@@ -6,20 +6,20 @@ import dog3 from "../public/images/dog3.jpg";
 const Work = () => {
   return (
     <>
-      <section class="text-gray-600 body-font">
-        <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
-          <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+      <section className="text-gray-600 body-font">
+        <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <Image
-              class="object-cover object-center rounded"
+              className="object-cover object-center rounded"
               alt="dog"
               src={dog1}
             />
           </div>
-          <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+          <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
+            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Banho
             </h1>
-            <p class="text-justify indent-6 mb-8 leading-relaxed">
+            <p className="text-justify indent-6 mb-8 leading-relaxed">
               Utilizamos produtos de alta qualidade e adequados para cada tipo
               de pelagem, garantindo um banho suave e eficaz. Nossa equipe
               especializada está treinada para lidar com diferentes
@@ -35,20 +35,20 @@ const Work = () => {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
-          <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+      <section className="text-gray-600 body-font">
+        <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <Image
-              class="object-cover object-center rounded"
+              className="object-cover object-center rounded"
               alt="dog"
               src={dog2}
             />
           </div>
-          <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+          <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
+            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Tosa
             </h1>
-            <p class="text-justify indent-6 mb-8 leading-relaxed">
+            <p className="text-justify indent-6 mb-8 leading-relaxed">
               Nosso serviço de tosa para pets oferece um cuidado profissional e
               estilizado para deixar seu amiguinho com um visual impecável.
               Nossa equipe de tosadores experientes e habilidosos utiliza
@@ -60,20 +60,20 @@ const Work = () => {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
-          <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+      <section className="text-gray-600 body-font">
+        <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <Image
-              class="object-cover object-center rounded"
+              className="object-cover object-center rounded"
               alt="dog"
               src={dog3}
             />
           </div>
-          <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+          <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
+            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Cuidados
             </h1>
-            <p class="text-justify indent-6 mb-8 leading-relaxed">
+            <p className="text-justify indent-6 mb-8 leading-relaxed">
               Nossa equipe de profissionais dedicados é apaixonada por animais e
               está comprometida em garantir que cada pet receba cuidados
               personalizados e de alta qualidade. Dos momentos de brincadeira e
